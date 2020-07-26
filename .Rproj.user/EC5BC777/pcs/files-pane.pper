@@ -1,0 +1,9 @@
+{
+    "path" : "~/GIT/times-series",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

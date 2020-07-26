@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595683822108.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "52125724",
+    "id" : "BD0C91DB",
+    "lastKnownWriteTime" : 1595791892,
+    "last_content_update" : 1595791892174,
+    "path" : "~/GIT/times-series/plot-times-series.R",
+    "project_path" : "plot-times-series.R",
+    "properties" : {
+        "cursorPosition" : "94,0",
+        "scrollLine" : "78"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
